@@ -1,0 +1,64 @@
+{
+  "readyForLaunch": true,
+  "siteName": "Break Glass If Bored Guide",
+  "shortName": "Break Glass If Bored",
+  "description": "Explore our complete Break Glass If Bored Roblox wiki and guide featuring active redeem codes, beginner progression steps, core mechanics tables, and winning.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Editorial Team",
+  "theme": {
+    "preset": "obsidian-red",
+    "overrides": {
+      "background": "220 16% 96%",
+      "foreground": "0 0% 7%",
+      "card": "220 6% 100%",
+      "card-foreground": "0 0% 7%",
+      "primary": "207 55% 41%",
+      "primary-foreground": "0 0% 100%",
+      "secondary": "220 16% 89%",
+      "muted": "220 16% 91%",
+      "muted-foreground": "0 0% 7%",
+      "border": "220 16% 80%",
+      "radius": ".35rem",
+      "card-shadow": "0 8px 18px rgba(15, 23, 42, .06)",
+      "hero-gradient": "linear-gradient(180deg, hsl(207 55% 41% / .08), transparent 70%)",
+      "background-pattern": "none",
+      "font-sans": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "font-heading": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "heading-weight": "700",
+      "heading-letter-spacing": "-0.02em"
+    },
+    "skin": "resource",
+    "headerStyle": "solid",
+    "componentStyle": "sharp",
+    "accentColorId": "default",
+    "colorMode": "custom",
+    "background": "#F4F5F7",
+    "accent": "#2F6FA3",
+    "fontId": "source-sans"
+  },
+  "hosting": {
+    "siteUrl": "https://break-glass-if-bored.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "allowedExternalDomains": [
+    "www.roblox.com"
+  ],
+  "assets": {
+    "logo": "/images/break-glass-if-bored-logo.png",
+    "cover": "/images/break-glass-if-bored-cover.png",
+    "openGraph": "/images/break-glass-if-bored-og.svg",
+    "favicon": "/images/break-glass-if-bored-logo.png"
+  },
+  "game": {
+    "name": "Break Glass If Bored",
+    "platform": "Roblox",
+    "developer": "Nebula",
+    "genre": "Simulation",
+    "officialUrl": "https://www.roblox.com/games/139016063432102"
+  },
+  "seo": {
+    "titleTemplate": "%s | Break Glass If Bored Guide"
+  }
+}
